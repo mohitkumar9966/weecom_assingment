@@ -92,7 +92,7 @@ export function Sidebar({ className }: SidebarProps) {
           <div className="p-4 border-t border-gray-200">
             <div className="flex items-center">
               <div className="h-8 w-8 rounded-full bg-purple-100 flex items-center justify-center">
-                <span className="text-sm font-medium text-purple-700">JD</span>
+                <span className="text-sm font-medium text-purple-700">MK</span>
               </div>
               <div className="ml-3">
                 <p className="text-sm font-medium text-gray-900">Mohit kumar</p>
