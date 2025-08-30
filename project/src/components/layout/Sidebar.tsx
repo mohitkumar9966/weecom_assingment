@@ -95,7 +95,7 @@ export function Sidebar({ className }: SidebarProps) {
                 <span className="text-sm font-medium text-purple-700">JD</span>
               </div>
               <div className="ml-3">
-                <p className="text-sm font-medium text-gray-900">John Doe</p>
+                <p className="text-sm font-medium text-gray-900">Mohit kumar</p>
                 <p className="text-xs text-gray-500">Admin</p>
               </div>
             </div>
